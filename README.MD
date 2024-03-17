@@ -1,170 +1,110 @@
-# Stem-Bot
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+# Stem bot
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#inspiration">Inspiration</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#what-it-does">What It Does</a>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#how-we-built-it">How We Built It</a></li>
+    <li><a href="#challenges-we-ran-into">Challenges We Ran Into</a></li>
+    <li><a href="#accomplishments-we-are-proud-of">Accomplishments We Are Proud Of</a></li>
+    <li><a href="#what-we-learned">What We Learned</a></li>
+    <li><a href="#what-is-next-for-stembot-powered-up-using-discord">What Is Next For StemBOT Powered Up Using Discord</a></li>
+    <li><a href="#try-it-out">Try It Out</a></li>
   </ol>
 </details>
 
 
 
+<!-- INSPIRATION -->
+## Inspiration
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-STEM Bot is a revolutionary Discord bot designed to enhance your learning experience through interactive quizzes. Tailored specifically for subjects in science, technology, engineering, and mathematics (STEM), STEM Bot serves as your virtual study partner, ready to challenge and educate you on a wide range of topics.
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+We were inspired by games like Kahoot and Gimkit that make learning fun by turning it into a game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+<!-- WHAT IT DOES -->
+## What It Does
 
-The Stem bot was built with applications such as github and replit. We used python to create our project,
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To start using the Stem Bot, you would have to add the bot into your server. After doing that there are 3 steps.
-Type “hello” in the chat.
-Type a subject, “science, technology, engineering, or math” in the chat.
-(After this, the bot will give you a question to quiz you on that subject)
-Enter your answer in the chat.
-The bot will tell you if you got the question right or wrong.
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+The stemBOT is a bot that asks the user questions on the topic they have picked. Here are some of the features:
+* User can pick different topics for the quiz
+* User can see real time scores (after each question)
+* User can skip if they don't know the answer.
+* User can also see final score after the quiz is over
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- HOW WE BUILT IT -->
+## How We Built It
 
-* []()
-* []()
-* []()
+We built this bot using Discord and Replit. Discord is our User Interface (UI) and Replit is where we put the backend logic. For the backend, we wrote the code in python.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+<!-- CHALLENGES WE RAN INTO -->
+## Challenges We Ran Into
 
+* We were unfamiliar with discord and github platforms. So, we had to get familar with the interfaces before starting the coding
+* The bot is an event driven program.So, we had to make sure the user's state is preserved across multiple questions.
+* We had to develop logic to ignore small typos and case sensitivity in the answers.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACCOMPLISHMENTS WE ARE PROUD OF -->
+## Accomplishments We Are Proud Of
+
+We're proud to have developed a versatile tool that can be easily integrated into any Discord server, empowering users to engage in educational quizzes on a variety of subjects. This was our first time ever creating a Discord Bot and we successfully were able to run it. We also customized the bot so users can input a subject of their choice, and the bot quizzes them accordingly, fostering learning and engagement within the server.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- WHAT WE LEARNED -->
+## What We Learned
+
+We learned to navigate through platforms such as Discord, Github, and Replit to create our bot. We also learned more in software development, by learning new ways to implement features into the bot by learning new code. We learned how to add our bot to any Discord Server and how to manage bugs in the program.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- WHAT IS NEXT FOR STEMBOT POWERED UP USING DISCORD -->
+## What Is Next For StemBOT Powered Up Using Discord
+
+For now the StemBOT only has two subjects (with six questions each) programmed into it. In futre, we would like to
+* Extend it by adding more subjects and questions.
+* Make it more fun and more gamelike - example: introduce leaderboard.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- TRY IT OUT -->
+## Try It Out
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
