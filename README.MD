@@ -85,7 +85,7 @@ We learned to navigate through platforms such as Discord, Github, and Replit to 
 <!-- WHAT IS NEXT FOR STEMBOT POWERED UP USING DISCORD -->
 ## What Is Next For StemBOT Powered Up Using Discord
 
-For now the StemBOT only has two subjects (with six questions each) programmed into it. In futre, we would like to
+For now the StemBOT only has two subjects (with six questions each) programmed into it. In future, we would like to
 * Extend it by adding more subjects and questions.
 * Make it more fun and more gamelike - example: introduce leaderboard.
 
@@ -96,15 +96,8 @@ For now the StemBOT only has two subjects (with six questions each) programmed i
 <!-- TRY IT OUT -->
 ## Try It Out
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+This is the link to our Replit platform code!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Replit link](https://replit.com/@dpj703/stem-bot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
